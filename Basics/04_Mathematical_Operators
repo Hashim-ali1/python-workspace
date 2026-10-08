@@ -1,18 +1,28 @@
-# There are many Mathematical Operators in python like: (+ , - , / , * , // , ** ) 
-
-# + operator
-print(2 + 3)
-print(4 + 7)
-# It's also possible to create variables to store the value of the opperation ,like:
-a = 2 
-b = 3 
+# Addition operator (+)
+a = 9
+b = 30 
 print(a + b)
 
+# Subtraction operator (-)
+a = 15
+b = 4
+print(a - b)
 
-# - operator 
-print(8 - 3)
-print(23 - 15)
+# / Float Division operator (/)
+a = 7 
+b = 3 
+print(a / b)
 
-# / operator 
-print()
+# Floor Division operator (//)
+a = 27 
+b = 5 
+print(a // b)
+
+# Modulus operator (%)
+a = 7 
+b = 3 
+print(a % b)
+
+
+
 
